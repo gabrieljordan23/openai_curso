@@ -1,0 +1,10 @@
+Como analista, considerando o status "Possível Fraude" juntamente com a justificativa apresentada, ou seja, um alto valor de transação em um estabelecimento esportivo, recomendo as seguintes ações:
+
+1. **Notificar o Cliente**: Inicialmente, é importante notificar o cliente sobre a atividade suspeita em sua conta. Envie uma mensagem de alerta imediatamente, pedindo que ele confirme ou negue a transação. Este passo pode ajudar a identificar rapidamente se é ou não uma fraude.
+
+2. **Acionar o setor Anti-Fraude**: Em paralelo, é crucial encaminhar o caso para o setor Anti-Fraude. Eles têm as ferramentas e experiência para investigar a transação de maneira mais aprofundada e tomar as medidas necessárias.
+
+3. **Realizar Verificação Manual**: Dada a alta quantia envolvida e o potencial alto risco, seria prudente realizar uma verificação manual da transação. Isso pode envolver análise de padrões de transações passadas do cliente, verificando se o estabelecimento tem um histórico de transações fraudulentas, e criando um perfil de risco para a transação.
+
+Em relação à classificação do tipo de fraude:
+Este caso pode ser classificado como **Fraude de Cartão Presente (Card Present Fraud).** O alto valor desta transação em uma loja de varejo pode ser um indicativo de aquisições de alto valor para revenda, uma prática comum em fraudes deste tipo. A localização da transação também deve ser aprofundadamente investigada, comparando com as localizações usuais do portador do cartão.
